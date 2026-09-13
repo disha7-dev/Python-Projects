@@ -1,6 +1,6 @@
 #High Precision Microchip Failure Classification
 ##Project Overview
-This project uses Machine Learning to classsify mmicrochips as funnctional or Defective.
+This project uses Machine Learning to classify microchips as functional or Defective.
 
 ##Algorithm used
 -Support Vector Machine(SVM)
